@@ -1,0 +1,1 @@
+Para adicionar mais produtos no catálo: dentro da pasta pages existe uma lista de objetos, e cada objeto tem 5 propiedades - image: aqui você direciona o caminho da imagem, id, nome, preço e descricção, essas informações serão renderizadas no layout
